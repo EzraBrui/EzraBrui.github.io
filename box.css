@@ -1,0 +1,15 @@
+.container {
+ display: flex
+ flex-direction: column;
+
+.b.header {
+    background-color: blue;
+    width: 600px;
+    padding-left: 15px;
+}
+.box2.content {
+    background-color: palevioletred;
+    height: 250px;
+    width: 605px;
+    padding: 5px;
+}
